@@ -33,7 +33,7 @@ Foram utilizadas duas abordagens de classificação supervisionada da biblioteca
 
 ---
 
-## 📊 Resultados e Análise
+## Resultados e Análise
 
 Os modelos foram treinados com 80% dos dados e avaliados com 20%.
 
@@ -55,7 +55,7 @@ O **KNN superou o Random Forest** em acurácia.
 
 ---
 
-## ⚙️ Configuração e Execução
+## Configuração e Execução
 
 ### Dataset
 
@@ -79,7 +79,7 @@ Para rodar o notebook (`digits.ipynb`), você precisará das seguintes bibliotec
 
 ---
 
-## 👤 Autor
+## Autor
 
 - **Aluno:** Giovane Batista de Lima e Cirne
 - **Instituição:** Universidade do Estado do Rio
