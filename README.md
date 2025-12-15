@@ -78,7 +78,13 @@ Para rodar o notebook (`digits.ipynb`), você precisará das seguintes bibliotec
 
 ---
 
+## Bibliografia
+
+- [scikit-learn](https://scikit-learn.org/stable/index.html)
+
+---
+
 ## Créditos
 
-- **Autor:** Giovane Batista de Lima e Cirne
+- **Autor:** Giovane Cirne
 - **Instituição:** Universidade do Estado do Rio de Janeiro
