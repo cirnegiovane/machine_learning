@@ -68,7 +68,6 @@ Para rodar o notebook (`digits.ipynb`), você precisará das seguintes bibliotec
 - `sklearn`
 - `matplotlib`
 - `seaborn`
-- `numpy`
 
 > **Nota:** As especificações de hardware utilizadas no desenvolvimento foram: **CPU AMD Ryzen 5 1500X**, **RAM 16GB DDR4** e **GPU NVIDIA GTX 1660 Super**.
 
@@ -79,7 +78,7 @@ Para rodar o notebook (`digits.ipynb`), você precisará das seguintes bibliotec
 
 ---
 
-## Autor
+## Créditos
 
-- **Aluno:** Giovane Batista de Lima e Cirne
-- **Instituição:** Universidade do Estado do Rio
+**Autor:** Giovane Batista de Lima e Cirne
+**Instituição:** Universidade do Estado do Rio de Janeiro
