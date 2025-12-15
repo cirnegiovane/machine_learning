@@ -15,7 +15,7 @@ Este projeto visa classificar dígitos manuscritos (de 0 a 9) a partir de imagen
 
 ---
 
-## 🛠️ Ferramentas e Metodologia
+## Ferramentas e Metodologia
 
 Foram utilizadas duas abordagens de classificação supervisionada da biblioteca `scikit-learn`.
 
