@@ -59,7 +59,7 @@ O **KNN superou o Random Forest** em acurácia.
 
 ### Dataset
 
-O projeto utiliza o dataset **Digits** (`load_digits()`), que é um conjunto de dados de classificação de acesso rápido (_built-in_) no `scikit-learn`.
+O projeto utiliza o dataset **Digits** (`load_digits()`), que é um conjunto de dados de classificação de acesso rápido (_built-in_) no `scikit-learn`. Todos os parâmetros utilizados são os pré-definidos como padrão pela biblioteca, para alterar, consulte a documentação oficial na bibliografia.
 
 ### Requisitos
 
@@ -80,5 +80,5 @@ Para rodar o notebook (`digits.ipynb`), você precisará das seguintes bibliotec
 
 ## Créditos
 
-**Autor:** Giovane Batista de Lima e Cirne
-**Instituição:** Universidade do Estado do Rio de Janeiro
+- **Autor:** Giovane Batista de Lima e Cirne
+- **Instituição:** Universidade do Estado do Rio de Janeiro
